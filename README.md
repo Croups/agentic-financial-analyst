@@ -1,4 +1,7 @@
 # Multi-Agent Finance Advisor
+## DEMO 
+
+
 ## An Advanced AI-Powered Financial Advisory System
 
 The Multi-Agent Finance Advisor is a sophisticated financial advisory system that leverages multiple AI agents to provide comprehensive financial insights and investment recommendations. Built with Streamlit, it combines real-time market data, news analysis, and expert financial modeling to deliver reliable financial advice.
@@ -53,13 +56,9 @@ Features
 ### API Keys
 The system requires two API keys:
 
-- OpenAI API Key
+- OpenAI API Key ,Get it from: https://platform.openai.com
 
-- Get it from: https://platform.openai.com
-
-- Groq API Key
-
-- Get it from: https://console.groq.com
+- Groq API Key , Get it from: https://console.groq.com
 
 - Create a .env file in the root directory:
 - OPENAI_API_KEY=your_openai_key_here
