@@ -39,7 +39,7 @@ Features
 
 # Installation
 - Clone the repository
-- git clone https://github.com/yourusername/multi-agent-finance-advisor.git
+- git clone https://github.com/Croups/multi-agent-finance-advisor.git
 
 ## Install required dependencies
 - pip install -r requirements.txt
@@ -48,7 +48,7 @@ Features
 
 - streamlit run app.py
 
-- Access the web interface at http://localhost:8501
+- Access the web interface
 - Enter your API keys in the sidebar
 - Input your financial question and customize agent instructions if needed
 - Click "Submit" to receive comprehensive financial analysis
