@@ -1,6 +1,6 @@
 # Multi-Agent Finance Advisor
 ## DEMO 
-
+https://github.com/user-attachments/assets/e62d4f3e-96a7-4953-aaed-947546fcacdd
 
 ## An Advanced AI-Powered Financial Advisory System
 
